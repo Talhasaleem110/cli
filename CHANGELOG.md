@@ -1,5 +1,12 @@
 # Changelog
 
+## [10.2.2](https://github.com/npm/cli/compare/v10.2.1...v10.2.2) (2023-10-23)
+
+### Documentation
+
+* [`c422a01`](https://github.com/npm/cli/commit/c422a01e1564d25148c821ee257196ebe60e8e6c) [#6924](https://github.com/npm/cli/pull/6924) use markdown links instead of html (@lukekarrys)
+* [`dd03aa0`](https://github.com/npm/cli/commit/dd03aa0b9acc535283daf39699de9831202348cb) [#6921](https://github.com/npm/cli/pull/6921) add v9 and above for lockfile version 3 (#6921) (@MikeMcC399)
+
 ## [10.2.1](https://github.com/npm/cli/compare/v10.2.0...v10.2.1) (2023-10-18)
 
 ### Bug Fixes
