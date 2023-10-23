@@ -1,5 +1,11 @@
 # Changelog
 
+## [9.9.1](https://github.com/npm/cli/compare/v9.9.0...v9.9.1) (2023-10-23)
+
+### Documentation
+
+* [`e6cce28`](https://github.com/npm/cli/commit/e6cce28ddd300923f616be4a6fa3946d5e96480c) [#6925](https://github.com/npm/cli/pull/6925) use markdown links instead of html (@lukekarrys)
+
 ## [9.9.0](https://github.com/npm/cli/compare/v9.8.1...v9.9.0) (2023-10-06)
 
 ### Features
